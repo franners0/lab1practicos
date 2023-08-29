@@ -1,0 +1,50 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'/home/fran/NetBeansProjects/practico3.lab1/src/main/java:/home/fran/NetBeansProjects/practico3.lab1/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/fran/NetBeansProjects/practico3.lab1/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'practico3.lab1 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/home/fran/NetBeansProjects/practico3.lab1/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'practico3.lab1 1.0-SNAPSHOT API'
+practico3
+/home/fran/NetBeansProjects/practico3.lab1/src/main/java = 1693208585008
+/home/fran/NetBeansProjects/practico3.lab1/target/generated-sources/annotations = 1693209120404
+/home/fran/NetBeansProjects/practico3.lab1/target/apidocs/element-list = 1693209122182
+/home/fran/NetBeansProjects/practico3.lab1/target/apidocs/member-search-index.js = 1693209122216
+/home/fran/NetBeansProjects/practico3.lab1/target/apidocs/jquery-ui.overrides.css = 1693209122239
+/home/fran/NetBeansProjects/practico3.lab1/target/apidocs/index.html = 1693209122230
+/home/fran/NetBeansProjects/practico3.lab1/target/apidocs/type-search-index.zip = 1693209122215
+/home/fran/NetBeansProjects/practico3.lab1/target/apidocs/allclasses-index.html = 1693209122223
+/home/fran/NetBeansProjects/practico3.lab1/target/apidocs/script.js = 1693209122233
+/home/fran/NetBeansProjects/practico3.lab1/target/apidocs/package-search-index.zip = 1693209122215
+/home/fran/NetBeansProjects/practico3.lab1/target/apidocs/allclasses.html = 1693209122230
+/home/fran/NetBeansProjects/practico3.lab1/target/apidocs/constant-values.html = 1693209122189
+/home/fran/NetBeansProjects/practico3.lab1/target/apidocs/help-doc.html = 1693209122232
+/home/fran/NetBeansProjects/practico3.lab1/target/apidocs/deprecated-list.html = 1693209122229
+/home/fran/NetBeansProjects/practico3.lab1/target/apidocs/index-all.html = 1693209122217
+/home/fran/NetBeansProjects/practico3.lab1/target/apidocs/search.js = 1693209122234
+/home/fran/NetBeansProjects/practico3.lab1/target/apidocs/serialized-form.html = 1693209122194
+/home/fran/NetBeansProjects/practico3.lab1/target/apidocs/allpackages-index.html = 1693209122225
+/home/fran/NetBeansProjects/practico3.lab1/target/apidocs/package-search-index.js = 1693209122202
+/home/fran/NetBeansProjects/practico3.lab1/target/apidocs/member-search-index.zip = 1693209122216
+/home/fran/NetBeansProjects/practico3.lab1/target/apidocs/type-search-index.js = 1693209122215
+/home/fran/NetBeansProjects/practico3.lab1/target/apidocs/overview-tree.html = 1693209122200
+/home/fran/NetBeansProjects/practico3.lab1/target/apidocs/stylesheet.css = 1693209122233
